@@ -1,5 +1,5 @@
 ### Hi! I am Yifan Liu,
-an undergraduate student at Tsinghua University. I am looking forward to becoming an researcher in AI.  
+an undergraduate student at Tsinghua University. I am looking forward to becoming a researcher in AI.  
 Welcome to my academic homepage: https://liuyifan22.github.io  
 or a less formal one: https://liuyifan22.github.io/intro/  
 
