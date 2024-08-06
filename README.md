@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! I am Yifan Liu,
+an undergraduate student at Tsinghua University. I am looking forward to be an researcher in AI.  
+Welcome to my academic homepage: https://liuyifan22.github.io  
+or a less formal one: https://liuyifan22.github.io/intro/  
+
 
 <!--
 **liuyifan22/liuyifan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
