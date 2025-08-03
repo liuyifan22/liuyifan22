@@ -1,7 +1,6 @@
 ### Hi! I am Yifan Liu,
 an undergraduate student at Tsinghua University. My research experience includes 3D Vision perception and generation (Pointcloud, 3D Gaussians, Avatar), Multimodal LLMs (Designing visual modules and Agentic applications) and RL. My aspiration is to build a multimodal education agent that promises high-quality education to all children in the world.   
-Welcome to my academic homepage to check research details: https://liuyifan22.github.io  
-or a less formal one: https://liuyifan22.github.io/intro/  
+Welcome to my academic homepage: https://liuyifan22.github.io  
 
 
 <!--
